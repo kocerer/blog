@@ -1,2 +1,2 @@
 # blog
-ilk deneme
+ilk deneme blog
